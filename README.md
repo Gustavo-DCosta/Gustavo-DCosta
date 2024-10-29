@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Gustavo-DCosta
 - 👀 I’m interested in Cybersecurity developpement and sport
-- 🌱 I’m currently learning bash and python
+- 🌱 I’m currently learning c++ and python
 - 💞️ I’m looking to collaborate on works and projects 
 - 📫 How to reach me just email me lol
 - 😄 Pronouns: is that a thing? he/he?
