@@ -1,10 +1,10 @@
-- 👋 Hi, I’m @Gustavo-DCosta
-- 👀 I’m interested in Cybersecurity and developpement 
-- 🌱 I’m currently learning c++ and C
-- 💞️ I’m looking to collaborate on works and projects 
-- 📫 How to reach me just email me lol
-- 😄 Pronouns: is that a thing? he/he?
-- ⚡ Fun fact: "fun fact" I am fun
+👋 Hi, I’m Gustavo D'Costa!
+🔹 Interested in: Cybersecurity & Development
+🔹 Currently learning: C & C++
+🔹 Looking to collaborate on: Security-related projects & coding challenges
+🔹 Fun fact: I am fun 😆
+
+📬 How to reach me: Feel free to email me!
 
 <!---
 Gustavo-DCosta/Gustavo-DCosta is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
