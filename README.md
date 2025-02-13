@@ -1,4 +1,5 @@
 👋 Hi, I’m Gustavo D'Costa!
+🔹 Currently at Chaptal Comprehensve highschool - at "1ère technologique STIDD" --> 11th grade
 🔹 Interested in: Cybersecurity & Development
 🔹 Currently learning: C & C++
 🔹 Looking to collaborate on: Security-related projects & coding challenges
