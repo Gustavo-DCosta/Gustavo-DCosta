@@ -7,7 +7,7 @@
 
 📬 How to reach me: Feel free to email me!
 
-<a href="https://roadmap.sh"><img src="https://roadmap.sh/card/tall/67b376bf98abd86c99014923?variant=dark&roadmaps=backend%2Ccyber-security" alt="roadmap.sh"/></a>
+<a href="https://roadmap.sh"><img src="https://roadmap.sh/card/wide/67b376bf98abd86c99014923?variant=dark&roadmaps=backend%2Ccyber-security" alt="roadmap.sh"/></a>
 
 
 <!---
