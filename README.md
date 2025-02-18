@@ -8,7 +8,7 @@
 📬 How to reach me: Feel free to email me!
 
 <a href="https://roadmap.sh"><img src="https://roadmap.sh/card/tall/67b376bf98abd86c99014923?variant=dark&roadmaps=backend%2Ccyber-security" alt="roadmap.sh"/></a>
-https://roadmap.sh/card/tall/67b376bf98abd86c99014923?variant=dark&roadmaps=backend%2Ccyber-security
+
 
 <!---
 Gustavo-DCosta/Gustavo-DCosta is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
