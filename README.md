@@ -1,7 +1,16 @@
-<h1 align="center">⚡ Gustavo D. Costa ⚡</h1>
-<p align="center">
-  <em>Backend dev ⚙️ • C/C++ junkie 💾 • Golang wizard 🌀 • Aspiring cyber sentinel 🛡️</em>
-</p>
+<table>
+  <tr>
+    <td width="300px" align="center">
+      <img src="pics/logo.png" width="300px" height="300px" alt="Mascot">
+    </td>
+    <td valign="middle">
+      <h1>⚡ Gustavo D. Costa ⚡</h1>
+      <p><em>Backend dev ⚙️ • C/C++ junkie 💾 • Golang wizard 🌀 • Aspiring cyber sentinel 🛡️</em></p>
+      <p>Crafting secure tools, reverse engineering reality, and building open-source with a personal twist 🧠</p>
+      <p><strong>“Hack the future. Be the firewall.” 🔥</strong></p>
+    </td>
+  </tr>
+</table>
 
 ---
 
@@ -22,44 +31,13 @@
 ### 🧰 Tech Stack
 
 <p align="center">
-  <img src="pics/go.svg" height="40" alt="Go" />
-  <img src="pics/c.svg" height="40" alt="C" />
-  <img src="pics/cpp.svg" height="40" alt="C++" />
-  <img src="pics/postgresql.svg" height="40" alt="PostgreSQL" />
-  <img src="pics/linux.svg" height="40" alt="Linux" />
+  <img src="pics/Go.svg" height="40" alt="Go" />
+  <img src="pics/C.svg" height="40" alt="C" />
+  <img src="pics/C++.svg" height="40" alt="C++" />
+  <img src="pics/PostgreSQL.svg" height="40" alt="PostgreSQL" />
+  <img src="pics/Linux.svg" height="40" alt="Linux" />
   <img src="pics/windows.svg" height="40" alt="Windows" />
 </p>
-
----
-
-### 📊 GitHub Stats That Go Hard
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Gustavo-DCosta&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="180" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gustavo-DCosta&layout=compact&theme=tokyonight&hide_border=true" height="180" />
-</p>
-
----
-
-### 🔥 WakaTime Stats *(daily coding energy)*
-
-<!-- Replace `yourWakaUsername` below with your actual WakaTime username -->
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=yourWakaUsername&theme=tokyonight&layout=compact&hide_border=true" />
-</p>
-
----
-
-### 🐍 Contribution Snake (watch it slither)
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Gustavo-DCosta/Gustavo-DCosta/output/github-contribution-grid-snake.svg" alt="snake gif" />
-</p>
-
----
-
-### 🌃 GitHub Skyline (3D Commits)
-[Check out my Skyline here!](https://skyline.github.com/Gustavo-DCosta/2024)
 
 ---
 
