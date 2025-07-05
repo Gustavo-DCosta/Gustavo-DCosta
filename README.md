@@ -1,67 +1,94 @@
-<div align="center">
-  <img height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif"  />
-</div>
+<h1 align="center">⚡ Gustavo D. Costa ⚡</h1>
+<p align="center">
+  <em>Backend dev ⚙️ • C/C++ junkie 💾 • Golang wizard 🌀 • Aspiring cyber sentinel 🛡️</em>
+</p>
 
-###
+---
 
-<div align="center">
-  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
-  <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="youtube logo"  />
-  <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="twitter logo"  />
-</div>
+### 🧠 Projects I’m Brewing
 
-###
+- 🐚 [`Pipwn-shell`](https://github.com/Gustavo-DCosta/pipwn-shell): A custom Linux shell in raw C. Minimal. Powerful. Yours.
+- 🛡️ [`PulseGuard`](https://github.com/Gustavo-DCosta/PulseGuard): Lightweight firewall/antivirus for Linux servers. Clean and fast.
+- 🧠 [`GoBrainz`](https://github.com/Gustavo-DCosta/GoBrainz): CLI brain syncing with Notion AI.
 
-<div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=maurodesouza.maurodesouza&"  />
-</div>
+---
 
-###
+### 🌱 Currently Learning
 
-<h1 align="center">hey there 👋</h1>
+`Cybersecurity` • `Memory Management` • `Low-level Systems` • `Reverse Engineering` • `Protocol Design`
 
-###
+---
 
-<h3 align="left">👩‍💻  About Me</h3>
+### 🧰 Tech Stack
 
-###
+<p align="center">
+  <img src="pics/go.svg" height="40" alt="Go" />
+  <img src="pics/c.svg" height="40" alt="C" />
+  <img src="pics/cpp.svg" height="40" alt="C++" />
+  <img src="pics/postgresql.svg" height="40" alt="PostgreSQL" />
+  <img src="pics/linux.svg" height="40" alt="Linux" />
+  <img src="pics/windows.svg" height="40" alt="Windows" />
+</p>
 
-<p align="left">I'm ... from ....<br><br>- 🔭 I’m working as ...<br>- 📚 I'm currently learning ...<br>- ⚡ In my free time I ...</p>
+---
 
-###
+### 📊 GitHub Stats That Go Hard
 
-<h3 align="left">🛠 Language and tools</h3>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Gustavo-DCosta&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="180" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gustavo-DCosta&layout=compact&theme=tokyonight&hide_border=true" height="180" />
+</p>
 
-###
+---
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original-wordmark.svg" height="40" alt="go logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-original.svg" height="40" alt="rust logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ruby/ruby-plain-wordmark.svg" height="40" alt="ruby logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-plain-wordmark.svg" height="40" alt="dot-net logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain-wordmark.svg" height="40" alt="firebase logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-line-wordmark.svg" height="40" alt="amazonwebservices logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/circleci/circleci-plain.svg" height="40" alt="circleci logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" height="40" alt="kubernetes logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain-wordmark.svg" height="40" alt="docker logo"  />
-</div>
+### 🔥 WakaTime Stats *(daily coding energy)*
 
-###
+<!-- Replace `yourWakaUsername` below with your actual WakaTime username -->
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=yourWakaUsername&theme=tokyonight&layout=compact&hide_border=true" />
+</p>
 
-<h3 align="left">🔥   My Stats :</h3>
+---
 
-###
+### 🐍 Contribution Snake (watch it slither)
 
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=maurodesouza&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
-</div>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Gustavo-DCosta/Gustavo-DCosta/output/github-contribution-grid-snake.svg" alt="snake gif" />
+</p>
 
-###
+---
+
+### 🌃 GitHub Skyline (3D Commits)
+[Check out my Skyline here!](https://skyline.github.com/Gustavo-DCosta/2024)
+
+---
+
+### 💣 Fun Facts
+
+- 🧠 I name projects like final boss skills.
+- 🛠️ I break things, fix them, and call it innovation.
+- ☕ Fuel = 60% code + 30% coffee + 10% mild chaos
+- 🧑‍🚀 Goal: Cyberdefender. Open source builder. Terminal sorcerer.
+
+---
+
+### 🧠 Quote That Fuels Me
+
+> “Those who can make you believe absurdities can make you commit atrocities.”  
+> — *Voltaire*
+
+---
+
+### 🔗 Connect with Me
+
+<p align="center">
+  <a href="mailto:you@example.com"><img src="https://img.shields.io/badge/-Email-000?&logo=gmail&logoColor=white" /></a>
+  <a href="https://Gustavo-DCosta.github.io"><img src="https://img.shields.io/badge/-Portfolio-000?&logo=githubpages&logoColor=white" /></a>
+  <a href="#"><img src="https://img.shields.io/badge/-Twitter-000?&logo=twitter&logoColor=1DA1F2" /></a>
+</p>
+
+---
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&pause=1000&color=00F7FF&center=true&vCenter=true&width=435&lines=Keep+coding...;Hack+the+future...;Become+the+firewall...+🔥" alt="Typing SVG" />
+</p>
