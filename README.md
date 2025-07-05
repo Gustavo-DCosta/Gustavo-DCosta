@@ -31,12 +31,12 @@
 ### 🧰 Tech Stack
 
 <p align="center">
-  <img src="pics/Go.svg" height="40" alt="Go" />
-  <img src="pics/C.svg" height="40" alt="C" />
-  <img src="pics/C++.svg" height="40" alt="C++" />
-  <img src="pics/PostgreSQL.svg" height="40" alt="PostgreSQL" />
-  <img src="pics/Linux.svg" height="40" alt="Linux" />
-  <img src="pics/windows.svg" height="40" alt="Windows" />
+  <img src="pics/Go.svg" height="10" alt="Go" />
+  <img src="pics/C.svg" height="10" alt="C" />
+  <img src="pics/C++.svg" height="10" alt="C++" />
+  <img src="pics/PostgreSQL.svg" height="10" alt="PostgreSQL" />
+  <img src="pics/Linux.svg" height="10" alt="Linux" />
+  <img src="pics/windows.svg" height="10" alt="Windows" />
 </p>
 
 ---
