@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="pics/logo.png" width="250" style="max-width: 100%; height: auto; border-radius: 10px;" alt="Mascot">
+  <img src="pics/logo.png" width="250" style="max-width: 100%; height: auto; border-radius: 10px;" alt="Whiskers McGraw">
 </p>
 
 <h1 align="center">⚡ Gustavo D. Costa ⚡</h1>
