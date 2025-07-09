@@ -25,6 +25,15 @@ Cybersecurity • Memory Management • Low-level Systems • Reverse Engineerin
 
 ---
 
+### 🦾 What do I have to offer?
+  
+  <br>• Analytic thinking </br>
+  <br>• Critical thinking </br>
+  <br>• Problem solving </br>
+  <br>• Teamwork... </br>
+
+---
+
 ### 🧰 Tech Stack
 
 <p align="center">
