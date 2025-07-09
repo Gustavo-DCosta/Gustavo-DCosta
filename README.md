@@ -37,12 +37,13 @@ Cybersecurity • Memory Management • Low-level Systems • Reverse Engineerin
 ### 🧰 Tech Stack
 
 <p align="center">
-  <img src="pics/go.svg" height="40" alt="Go" />
-  <img src="pics/c.svg" height="40" alt="C" />
-  <img src="pics/cpp.svg" height="40" alt="C++" />
-  <img src="pics/postgreSQL.svg" height="40" alt="PostgreSQL" />
-  <img src="pics/linux.svg" height="40" alt="Linux" />
-  <img src="pics/windows.svg" height="40" alt="Windows" />
+  <img src="https://raw.githubusercontent.com/Gustavo-DCosta/<repo-name>/main/pics/go.svg" height="40" alt="Go" />
+  <img src="https://raw.githubusercontent.com/Gustavo-DCosta/<repo-name>/main/pics/c.svg" height="40" alt="C" />
+  <img src="https://raw.githubusercontent.com/Gustavo-DCosta/<repo-name>/main/pics/cpp.svg" height="40" alt="C++" />
+  <img src="https://raw.githubusercontent.com/Gustavo-DCosta/<repo-name>/main/pics/zig.svg" height="40" alt="Zig" />
+  <img src="https://raw.githubusercontent.com/Gustavo-DCosta/<repo-name>/main/pics/postgreSQL.svg" height="40" alt="PostgreSQL" />
+  <img src="https://raw.githubusercontent.com/Gustavo-DCosta/<repo-name>/main/pics/linux.svg" height="40" alt="Linux" />
+  <img src="https://raw.githubusercontent.com/Gustavo-DCosta/<repo-name>/main/pics/windows.svg" height="40" alt="Windows" />
 </p>
 
 ---
@@ -53,8 +54,9 @@ Cybersecurity • Memory Management • Low-level Systems • Reverse Engineerin
   <img src="https://github-readme-stats.vercel.app/api?username=Gustavo-DCosta&show_icons=true&theme=tokyonight&hide_border=true" alt="Gustavo's GitHub stats" />
 </p>
 
+
 <p align="center">
-  <img src=" https://github-readme-stats.vercel.app/api/top-langs/?username=Gustavo-DCosta&layout=compact&theme=tokyonight&hide=html,css,typescript,svelte&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gustavo-DCosta&layout=compact&theme=tokyonight&hide=html,css,typescript,svelte&hide_border=true" />
 </p>
 
 ---
