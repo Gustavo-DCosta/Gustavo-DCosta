@@ -69,16 +69,8 @@ Cybersecurity • Memory Management • Low-level Systems • Reverse Engineerin
 ### 🔗 Connect with Me
 
 <p align="center">
-  <a href="mailto:you@example.com"><img src="https://img.shields.io/badge/-Email-000?&logo=gmail&logoColor=white" /></a>
-  <a href="https://Gustavo-DCosta.github.io"><img src="https://img.shields.io/badge/-Portfolio-000?&logo=githubpages&logoColor=white" /></a>
-  <a href="#"><img src="https://img.shields.io/badge/-Twitter-000?&logo=twitter&logoColor=1DA1F2" /></a>
+  <a href="mailto:gdacostapereira66@gmail.com"><img src="https://img.shields.io/badge/-Email-000?&logo=gmail&logoColor=white" /></a>
+  <a href="https://github.com/Gustavo-DCosta"><img src="https://img.shields.io/badge/-Portfolio-000?&logo=githubpages&logoColor=white" /></a>
 </p>
 
 ---
-
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&pause=1000&color=00F7FF&center=true&vCenter=true&width=435&lines=Keep+coding...;Hack+the+future...;Become+the+firewall...+🔥" alt="Typing SVG" />
-
-
-
-</p>
