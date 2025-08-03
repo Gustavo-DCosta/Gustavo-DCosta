@@ -56,7 +56,7 @@ Cybersecurity • Memory Management • Low-level Systems • Reverse Engineerin
 
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gustavo-DCosta&layout=compact&theme=tokyonight&hide=html,css,typescript,svelte,javascript,shell,batchfile&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gustavo-DCosta&layout=compact&theme=tokyonight&hide=html,css,typescript,svelte,javascript,batchfile&hide_border=true" />
 </p>
 
 ---
