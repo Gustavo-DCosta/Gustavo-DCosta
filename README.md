@@ -5,18 +5,16 @@
 <h1 align="center"> Gustavo D. Costa </h1>
 
 <p align="center">
-  <em>Backend dev ⚙️ C Zig Golang</em><br>
-  Crafting secure tools, reverse engineering reality, and building open-source with a personal twist 🧠<br>
+  <em>Backend dev C Zig Golang</em><br>
   <strong>"I am loosing my mind" </strong>
 </p>
 
 ---
 
-### 🧠 Projects I'm Brewing
+### Projects I'm Brewing
 
-- **Pipwn-shell**: A custom Linux shell in raw C. Minimal. Powerful. Yours.  
-- 🛡**EchoMail**: A lightweight chat app focused on minimalism, security and privacy. 
-- **GoBrainz**: CLI brain syncing with Notion AI.
+- **Refx**: A golang CLI tool made to migrate golang import paths  
+- **EchoMail**: A lightweight chat app focused on minimalism, security and privacy. 
 
 ---
 
