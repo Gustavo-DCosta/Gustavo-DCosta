@@ -49,7 +49,7 @@ Cybersecurity • Memory Management • Low-level Systems • Reverse Engineerin
 ### GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Gustavo-DCosta&show_icons=true&theme=tokyonight&hide_border=false" alt="Gustavo's GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Gustavo-DCosta&show_icons=true&theme=tokyonight&hide_border=false&count_private=true" alt="Gustavo's GitHub stats" />
 </p>
 
 
