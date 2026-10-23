@@ -1,38 +1,38 @@
 <p align="center">
-  <img src="pics/logo.png" width="250" style="max-width: 100%; height: auto; border-radius: 10px;" alt="Whiskers McGraw">
+  <img src="pics/logo.png" width="250" style="max-width: 100%; height: auto; border-radius: 10px;" alt="Gustavo D. Costa">
 </p>
 
 <h1 align="center"> Gustavo D. Costa </h1>
 
 <p align="center">
-  <em>Backend dev C Zig Golang</em><br>
-  <strong>"I am loosing my mind" </strong>
+  <em>GEII Student | Embedded Systems & Low-Level Software Development</em><br>
+  <strong>"Bridging electrical engineering hardware with firmware."</strong>
 </p>
 
 ---
 
-### Projects I'm Brewing
+### 🚀 Projects I'm Working On
 
-- **Refx**: A golang CLI tool made to migrate golang import paths  
-- **EchoMail**: A lightweight chat app focused on minimalism, security and privacy. 
-
----
-
-### Currently Learning
-Cybersecurity • Memory Management • Low-level Systems • Reverse Engineering • Protocol Design 
+- **Hardware & Software Integration:** Combining CAD design with electrical engineering fundamentals to build custom embedded systems and firmware.
 
 ---
 
-### What do I have to offer?
-  
-  <br>• Analytic thinking </br>
-  <br>• Critical thinking </br>
-  <br>• Problem solving </br>
-  <br>• Teamwork... </br>
+### 📚 Currently Learning
+
+- **Degree:** Currently pursuing a **Licence GEII** (Electrical Engineering & Industrial Computing).
+- **Focus:** Combining CAD, circuit design, and microcontroller programming (C/C++) into real-world embedded projects.
 
 ---
 
-### Tech Stack
+### 🛠️ What I Bring to the Table
+
+- **Analytical & Critical Thinking:** Grounded in rigorous engineering logic and hardware/software troubleshooting.
+- **Problem Solving:** Focused on resource-constrained programming, low-level optimization, and debugging.
+- **Teamwork & Collaboration:** Communicative, adaptable, and eager to build reliable systems with cross-functional teams.
+
+---
+
+### 💻 Tech Stack
 
 <p align="center">
   <img src="pics/go.svg" height="40" alt="Go" />
@@ -46,41 +46,36 @@ Cybersecurity • Memory Management • Low-level Systems • Reverse Engineerin
 
 ---
 
-### GitHub Stats
+### 📊 GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Gustavo-DCosta&show_icons=true&theme=tokyonight&hide_border=false&count_private=true" alt="Gustavo's GitHub stats" />
 </p>
 
-
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gustavo-DCosta&layout=compact&theme=tokyonight&hide=html,css,typescript,svelte,javascript&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gustavo-DCosta&layout=compact&theme=tokyonight&hide=html,css,typescript,svelte,javascript&hide_border=true" alt="Top Languages" />
 </p>
 
 ---
----
 
-### Fun Facts
+### ⚡ Fun Facts & Goals
 
-- I am funny  
-- I break things, fix them, and call it innovation.  
-- I need money  
-- Goal: Cyberdefender. Open source builder. Terminal sorcerer.
+- Funny, approachable, and highly collaborative.
+- Driven by solving tangible engineering problems.
+- **Goal:** Secure an embedded systems or firmware engineering role to jumpstart my career.
 
 ---
 
-### Quote That Fuels Me
+### 💬 Quote That Fuels Me
 
-> "Those who can make you believe absurdities can make you commit atrocities."  
-> — *Voltaire*
+> *"Those who can make you believe absurdities can make you commit atrocities."*  
+> — **Voltaire**
 
 ---
 
-### Connect with Me
+### 📫 Connect with Me
 
 <p align="center">
-  <a href="mailto:gdacostapereira66@gmail.com"><img src="https://img.shields.io/badge/-Email-000?&logo=gmail&logoColor=white" /></a>
-  <a href="https://github.com/Gustavo-DCosta"><img src="https://img.shields.io/badge/-Portfolio-000?&logo=githubpages&logoColor=white" /></a>
+  <a href="mailto:gdacostapereira66@gmail.com"><img src="https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+  <a href="https://github.com/Gustavo-DCosta"><img src="https://img.shields.io/badge/-Portfolio-000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
 </p>
-
----
