@@ -6,25 +6,25 @@
 
 <p align="center">
   <em>GEII Student | Embedded Systems & Low-Level Software Development</em><br>
-  <strong>"Bridging electrical engineering hardware with firmware."</strong>
+  <strong>Bridging electrical engineering hardware with firmware</strong>
 </p>
 
 ---
 
-### 🚀 Projects I'm Working On
+### Projects I'm Working On
 
 - **Hardware & Software Integration:** Combining CAD design with electrical engineering fundamentals to build custom embedded systems and firmware.
 
 ---
 
-### 📚 Currently Learning
+### Currently Learning
 
 - **Degree:** Currently pursuing a **Licence GEII** (Electrical Engineering & Industrial Computing).
 - **Focus:** Combining CAD, circuit design, and microcontroller programming (C/C++) into real-world embedded projects.
 
 ---
 
-### 🛠️ What I Bring to the Table
+### What I Bring to the Table
 
 - **Analytical & Critical Thinking:** Grounded in rigorous engineering logic and hardware/software troubleshooting.
 - **Problem Solving:** Focused on resource-constrained programming, low-level optimization, and debugging.
@@ -32,7 +32,7 @@
 
 ---
 
-### 💻 Tech Stack
+### Tech Stack
 
 <p align="center">
   <img src="pics/go.svg" height="40" alt="Go" />
@@ -46,7 +46,7 @@
 
 ---
 
-### 📊 GitHub Stats
+### GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Gustavo-DCosta&show_icons=true&theme=tokyonight&hide_border=false&count_private=true" alt="Gustavo's GitHub stats" />
@@ -58,7 +58,7 @@
 
 ---
 
-### ⚡ Fun Facts & Goals
+### Fun Facts & Goals
 
 - Funny, approachable, and highly collaborative.
 - Driven by solving tangible engineering problems.
@@ -66,14 +66,14 @@
 
 ---
 
-### 💬 Quote That Fuels Me
+### Quote That Fuels Me
 
 > *"Those who can make you believe absurdities can make you commit atrocities."*  
 > — **Voltaire**
 
 ---
 
-### 📫 Connect with Me
+### Connect with Me
 
 <p align="center">
   <a href="mailto:gdacostapereira66@gmail.com"><img src="https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
